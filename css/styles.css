@@ -1,0 +1,12 @@
+body {background-color: mistyrose;}
+hr {background-color: none;
+     border-style: dotted none none;
+     border-color: grey;
+     border-width: 7px;
+     height: 0px;
+     width: 7%; }
+h1 {color: #407088;
+    text-shadow: 2px 2px 5px red;
+    word-spacing: 10px;}
+h2 {color: #407088;}
+h3 {color: #407088;}
